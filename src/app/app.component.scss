@@ -1,0 +1,21 @@
+.date-picker{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+table {
+  width: 50%;
+}
+h1{
+      margin-left: 3%;
+        font-size: 39px;
+        font-weight: 500;
+        color: #073d76;
+}
+
+
+::ng-deep .mat-form-field-outline {
+  opacity: 0;
+}
